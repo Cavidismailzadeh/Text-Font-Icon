@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(226, 226, 226);
+}
+
+.wed {
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.wed .img{
+    margin-left: 97px;
+    margin-top: 28px;
+}
+
+
+.wed .name{
+    margin-left: 93px;
+    margin-top: 20px;
+    font-family: 'Sora', sans-serif;
+    letter-spacing: 2px;
+}
+
+
+.wed .name1{
+    font-size: 10px;
+    margin-left: 167px;
+    margin-top: 57px;
+    font-family: 'Sora', sans-serif;
+    letter-spacing: 2px;
+}
+
+.wed .name2{
+    margin-left: 120px;
+    margin-top: 20px;
+    font-family: 'Sora', sans-serif;
+    letter-spacing: 2px;
+}
+
+.wed .name3{
+    margin-left: 181px;
+    margin-top: 5px;
+    font-family: 'Sora', sans-serif;
+    letter-spacing: 2px;
+}
+
+.wed .name4{
+    font-size: 10px;
+    margin-left: 164px;
+    margin-top: 20px;
+    font-family: 'Sora', sans-serif;
+    letter-spacing: 2px;
+}
+
+.wed .name5{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+}
+
+
