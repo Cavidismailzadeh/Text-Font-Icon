@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #00204a
+}
+
+
+.main h2{
+    margin-top: 50px;
+    margin-left: 250px;
+    font-size: 30px;
+    color: white;
+
+}
+
+.main{
+    display: flex;
+}
+
+.main .ul1 li a{  
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.main .ul1{ 
+    width: 300px;
+    margin-top: 60px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main .ul1 li{
+    list-style: none;
+}
+
+.head{
+    display: flex;
+}
+
+.login a{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
