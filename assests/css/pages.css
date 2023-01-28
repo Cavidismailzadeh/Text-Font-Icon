@@ -11,10 +11,11 @@ body{
 
 
 .main h2{
-    margin-top: 50px;
+    margin-top: 45px;
     margin-left: 250px;
     font-size: 30px;
     color: white;
+    font-family: 'Secular One', sans-serif;
 
 }
 
@@ -26,11 +27,12 @@ body{
     font-size: 15px;
     color: white;
     text-decoration: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 .main .ul1{ 
     width: 300px;
-    margin-top: 60px;
+    margin-top: 55px;
     margin-left: 120px;
     display: flex;
     justify-content: space-between;
@@ -48,4 +50,177 @@ body{
     font-size: 15px;
     color: white;
     text-decoration: none;
+    padding-right: 35px;
 }
+
+.head .login{
+    margin-top: 55px;
+    width: 500px;
+    margin-left: 250px;
+}
+
+.head .login .join{
+    background-color:  rgb(33, 169, 211) ;
+    border: 2px solid rgb(33, 169, 211);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Unbounded', cursive;
+}
+.login .log{
+    font-family: 'Poppins', sans-serif;
+}
+
+.welcome{
+   text-align: center;
+   color: rgb(33, 169, 211);
+   margin-top: 70px;
+   font-family: 'Secular One', sans-serif;
+}
+
+.sell{
+
+    width: 501px;
+    text-align: center;
+   color: white;
+   margin-top: 15px;
+   margin-left: 550px;
+   font-size: 50px;
+   font-family: 'Noto Sans Cherokee', sans-serif;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    width: 365px; 
+    margin-left: 620px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ul2{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+    
+}
+
+.ul2 li a{
+    margin-top: 20px;
+    margin-left:685px;
+    text-decoration: none;
+    background-color:  rgb(33, 169, 211) ;
+    border: 2px solid rgb(33, 169, 211);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ .ul2 li .learn{
+    text-decoration: none;
+    background-color:  #00204a;
+    border: 1px solid rgb(33, 169, 211);
+    color: rgb(33, 169, 211);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.pages{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.pages .page1{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-right: 50px;
+}
+
+.pages .page1 i{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 180, 180);
+    background-color:rgb(255, 180, 180);
+    font-size: 20px;
+    color: red;
+    border-radius: 10px;
+}
+
+.pages .page1 h2{
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: 'Noto Sans Cherokee', sans-serif;
+}
+
+.pages .page1 .div1{
+    width: 50px;
+    height: 5px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.pages .page1 p{
+ margin-left: 31px;
+    font-size: 15px;
+}
+
+
+
+.pages .page2{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin-right: 50px;
+}
+
+.pages .page2 i{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(170, 255, 192);
+    background-color:rgb(170, 255, 192);
+    font-size: 20px;
+    color: rgba(9, 255, 0, 0.849);
+    border-radius: 10px;
+}
+
+
+
+.pages .page3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(33, 169, 211);
+}
+
+.pages .page3 i{
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-top: 13px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color:rgb(255, 255, 255);
+    font-size: 20px;
+    color: rgb(33, 169, 211);
+    border-radius: 5px;
+}
+
