@@ -10,6 +10,7 @@ body{
 }
 
 .main .ul1 li a{
+    margin-left: 15px;
     color: white;
     font-size: 15px;
     text-decoration: none;

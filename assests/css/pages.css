@@ -166,7 +166,7 @@ body{
 
 .pages .page1 .div1{
     width: 50px;
-    height: 5px;
+    height: 2px;
     background-color: orange;
     border: 1px solid orange;
     border-radius: 5px;
@@ -175,9 +175,11 @@ body{
 }
 
 .pages .page1 p{
- margin-left: 31px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 31px;
     font-size: 15px;
-}
+    font-family: 'Inter', sans-serif;}
 
 
 
@@ -187,6 +189,30 @@ body{
     background-color: white;
     margin-right: 50px;
 }
+
+.pages .page2 h2{
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: 'Noto Sans Cherokee', sans-serif;
+}
+
+.pages .page2 .div1{
+    width: 50px;
+    height: 2px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.pages .page2 p{
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 31px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;}
 
 .pages .page2 i{
     margin-top: 30px;
@@ -222,5 +248,31 @@ body{
     font-size: 20px;
     color: rgb(33, 169, 211);
     border-radius: 5px;
+}
+.pages .page3 h2{
+    color: white;
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 20px;
+    font-family: 'Noto Sans Cherokee', sans-serif;
+}
+
+.pages .page3 .div1{
+    width: 50px;
+    height: 2px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.pages .page3 p{
+    margin-right: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 31px;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
 }
 

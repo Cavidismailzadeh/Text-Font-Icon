@@ -6,12 +6,11 @@
 }
 
 .task{
-
     width: 600px;
-    height: 50px;
+    height: 10px;
     background-color: rgb(226, 226, 226);
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 50px; 
 }
 
 .task .noqte{
@@ -19,7 +18,7 @@
     height: 5px;
     background-color: red;
     border-radius: 50%;
-    margin-left: 150px ;
+    margin-left: 200px ;
 }
 
 
@@ -28,6 +27,7 @@
     width: 600px;
     height: 600px;
     background-color: rgb(255, 255, 255);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
 .task1 i{
